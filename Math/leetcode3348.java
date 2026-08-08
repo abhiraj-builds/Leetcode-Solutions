@@ -1,3 +1,5 @@
+package Math;
+
 class Solution {
     public String smallestNumber(String num, long t) {
         // Check if t contains any prime factor other than 2,3,5,7
